@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.IO;
+using Microsoft.Data.Sqlite;
+
+class Program
+{
+    public static void Main()
+    {
+
+    }
+}
